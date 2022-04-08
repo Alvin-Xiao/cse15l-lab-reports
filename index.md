@@ -26,3 +26,5 @@ Here's some code (in Python)!
 
 And here is an image:
 ![Geisel](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
+
+This is some additional text added through VS Code!
