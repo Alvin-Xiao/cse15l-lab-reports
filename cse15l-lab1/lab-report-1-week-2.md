@@ -1,6 +1,6 @@
 # Lab Report 1
 
-[Home](index.md)
+[Home](..\index.md)
 
 ## Setup, Remote Access, and UNIX Commands
 *Alvin Xiao, March 31, 2022*
