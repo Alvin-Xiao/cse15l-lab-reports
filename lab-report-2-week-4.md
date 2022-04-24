@@ -1,6 +1,6 @@
 # Lab Report 2
 
-[Home](..\index.md)
+[Home](index.md)
 
 ## Incremental Development: Debugging One at a Time
 *Alvin Xiao, April 14, 2022*
