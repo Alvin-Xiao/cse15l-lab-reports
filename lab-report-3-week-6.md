@@ -23,11 +23,25 @@ This alias also works with `scp` and copying files.
 
 ![scp ieng6 command](cse15l-lab3-p3.png)
 
+### Setting up GitHub Access
+
+The goal of this is to be able to commit and push changes from the ieng6 server. In order to do so, a public and private key must be used. The public key can be found (after it is added) on GitHub.
+
+![public key](cse15l-lab3-p4.png)
+
+The private key (and public key) can be found on the user's side.
+
+![private key](cse15l-lab3-p5.png)
+
+With this, files that are modified can be committed and pushed on the ieng6 server. The resulting commit can be found [here](https://github.com/Alvin-Xiao/markdown-parser/commit/94a49f3fecad9e0f54887995b46f7ad1e7ba846b).
+
+![commit and push](cse15l-lab3-p6.png)
+
 ### Copying Whole Directories With SCP
 
 The command `scp <file> <alias>` will only function for single files. In order to copy directories that contain more than one file, `scp` must be called recursively by using `-r`.
 
-![scp -r command](cse15l-lab3-p8.png)
+![scp -r command](cse15l-lab3-p6.png)
 
 In the image above, all .java and .md files and the lib folder of the current directory will be copied over to the specified remote directory. 
 
